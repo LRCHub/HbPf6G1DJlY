@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Electric Relaxation",
+  "base_artist": "A Tribe Called Quest",
+  "createdAt": "2026-03-17T22:16:57.720265Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Electric Relaxation",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/01_Electric_Relaxation_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Electric Relaxation",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/02_Electric_Relaxation_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Electric Relaxation (1994)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/03_Electric_Relaxation_(1994)_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Electric Relaxation (Properly Relaxed mix)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/04_Electric_Relaxation_(Properly_Relaxed_mix)_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Electric Relaxation (Relax Yourself Girl)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/05_Electric_Relaxation_(Relax_Yourself_Girl)_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Electric Relaxation (Relax Yourself Girl)",
+      "artist": "Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/06_Electric_Relaxation_(Relax_Yourself_Girl)_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Electric Relaxation (Relax Yourself Girl) (instrumental)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/07_Electric_Relaxation_(Relax_Yourself_Girl)_(instrumental)_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Electric Relaxation (Live)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/08_Electric_Relaxation_(Live)_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Electric Relaxation (Relax Yourself Girl) Instrumental (Bonus Track Only Japan Edition)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/09_Electric_Relaxation_(Relax_Yourself_Girl)_Instrumental_(Bonus_Track_Only_Japan_E_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Electric Relaxation",
+      "artist": "Tribe Called Quest, A",
+      "has_synced": true,
+      "path": "select/10_Electric_Relaxation_Tribe_Called_Quest,_A.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Electric Relaxation",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/pl_01_Electric_Relaxation_A_Tribe_Called_Quest.txt"
+    }
+  ]
+}
